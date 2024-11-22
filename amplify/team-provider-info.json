@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shiftapp-dev-1fd4e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::891612556890:role/amplify-shiftapp-dev-1fd4e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::891612556890:role/amplify-shiftapp-dev-1fd4e-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-shiftapp-dev-1fd4e-deployment",
+      "UnauthRoleName": "amplify-shiftapp-dev-1fd4e-unauthRole",
+      "StackName": "amplify-shiftapp-dev-1fd4e",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:891612556890:stack/amplify-shiftapp-dev-1fd4e/7cec8d70-a7c8-11ef-86c3-0a050cc6e859",
+      "AmplifyAppId": "d1zd7c359zm7ag"
+    },
+    "categories": {
+      "auth": {
+        "shiftappcae88eb6": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
